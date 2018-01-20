@@ -1,0 +1,6 @@
+flask
+flask-restful
+pillow
+six
+pprint
+requests
