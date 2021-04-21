@@ -81,4 +81,4 @@ The project is not submoduling yowsup now due to a lot of the modifications made
 <img src="https://i.imgur.com/poLpmAR.png" width="253px" height="450px">
 <img src="https://i.imgur.com/CRNKfHj.png" width="253px" height="450px">
 
-###### **BTC**: 3FSCxDHnRKQvRJWPv4fcbLm37RemauTXRF
+
